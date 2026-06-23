@@ -26,3 +26,4 @@ The initial design was developed with guidance from a networking tutorial. I con
 
 # Planned Improvements
 Complete configuration of centralized TACACS+ authentication with local fallback 
+Pending name resolution verification. 
